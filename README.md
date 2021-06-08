@@ -5,5 +5,6 @@
 
 
 ## 使用モジュール
--Flask==1.1.2
--line-bot-sdk==1.14.0
+・Flask==1.1.2   
+・line-bot-sdk==1.19.0   
+
